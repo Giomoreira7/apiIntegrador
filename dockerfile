@@ -1,4 +1,4 @@
-# Usa imagem leve do Python
+
 FROM python:3.10-slim
 
 # Define diretório de trabalho
